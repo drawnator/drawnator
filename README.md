@@ -1,9 +1,9 @@
 <div align="center">᨟</div>
 
 <div align="center">
-  <a href="https://github.com/drawnator">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drawnator&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="280em" src="drawnator_of_life.gif"/>
 </div>
+<div align="center">᨟</div>
 
 <!--
 **drawnator/drawnator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+  <a href="https://github.com/drawnator">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drawnator&layout=compact&langs_count=7&theme=dracula"/>
 -->
