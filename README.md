@@ -2,7 +2,7 @@
 
 <div align="center">
   <img height="280em" src="drawnator_of_life.gif"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drawnator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=drawnator&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div align="center">᨟</div>
 
