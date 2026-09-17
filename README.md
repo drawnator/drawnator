@@ -2,7 +2,6 @@
 
 <div align="center">
   <img height="180em" src="drawnator_of_life.gif"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drawnator&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center">᨟</div>
 
